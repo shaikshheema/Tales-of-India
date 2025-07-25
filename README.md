@@ -57,7 +57,7 @@ To run this project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/shaikshheema/tales-of-india.git
+git clone https://github.com/shaikshheema/Tales-of-india.git
 
 # 2. Navigate into the project directory
 cd tales-of-india
